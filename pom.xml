@@ -177,6 +177,7 @@ CSV files of various types.
         <configuration>
           <excludes>
             <exclude>**/perf/PerformanceTest.java</exclude>
+            <exclude>**/CSVRecordTest.java</exclude>FercGovTest
           </excludes>
         </configuration>
       </plugin>
